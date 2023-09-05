@@ -1,0 +1,4 @@
+.env
+.idea/*
+__pycache__
+critical_mention_table.html
